@@ -1,4 +1,4 @@
-# k8s-node-sample
+# k8s-python-sample
 
 Sample Node.js app on Kubernetes
 
